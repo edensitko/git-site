@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://edensitko.github.io/git-site/sitemap.xml
